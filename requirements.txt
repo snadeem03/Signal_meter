@@ -1,0 +1,13 @@
+# This requirements.txt file lists all the dependencies needed for this project.
+
+#1 Python 3.x
+#2 Matplotlib Library >=3.7.2
+
+OTHER BUILT IN MODULES THAT ARE BEING USED ARE :
+
+#1 subprocess
+#2 re
+#3 time
+
+
+
